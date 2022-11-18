@@ -1,0 +1,201 @@
+body{
+  margin:50px 200px 50px 200px;
+}
+.topcontainer{
+  justify-content: space-around;
+}
+.head{
+  display: inline-block;
+}
+.head h1{
+  margin: 0;
+}
+.navbar{
+  text-align: right;
+  display: inline-block;
+  position: absolute;
+  right:200px;
+}
+nav{
+  text-align: right;
+}
+nav ul{
+  list-style-type: none;
+}
+nav ul li{
+  display: inline;
+  margin: 0 20px 0 20px;
+  color: hsl(233, 8%, 79%);
+}
+
+.side{
+  position: absolute;
+  right: 350px;
+  margin:20px 20px 20px 0;
+  width: 17%;
+  background-color: black;
+  padding: 10px;
+
+}
+.row-1{
+  display: inline-block;
+  width: 22%;
+  text-align: left;
+  margin: auto 20px ;
+}
+.image img{
+  margin-top: 20px;
+  width: 645px;
+  height: 275px;
+}
+.image{
+  margin: 20px 0 0 0 ;
+}
+.middle{
+  padding-right: 30px;
+}
+.side h3{
+  color: hsl(36, 100%, 99%);
+}
+.side h2{
+  color:
+}
+.side p{
+  color: hsl(233, 8%, 79%)
+}
+.side h2{
+  color: hsl(35, 77%, 62%);
+
+}
+.read{
+  display: block;
+}
+.read h1{
+  float: left;
+  width: 30%;
+  font-weight: bold;
+  font-size: 55px;
+  margin: 0;
+  display: inline-block;
+}
+.readpara{
+  width:70%;
+  position: absolute;
+  right: 135px;
+  top: 470px;
+}
+.readpara p{
+  position: relative;
+  display: inline-block;
+  left: 200px;
+  text-align: left;
+  width: 30%;
+  font-size: 100%;
+  margin: 20px;
+  text-align: left;
+  color: hsl(233, 8%, 79%);
+}
+button{
+  position: relative;
+  left: 220px;
+  width: 15%;
+  font-size: 100%;
+  font-family: monospace;
+  background-color: hsl(5, 85%, 63%);
+  color: white;
+  border: none;
+  display: block;
+}
+
+.content{
+  display: block;
+}
+
+.row-1{
+  position: relative ;
+  left: 170px;
+  position: absolute;
+  top: 750px;
+  margin: 20px;
+}
+.row-2{
+  position: relative ;
+  left: 510px;
+  position: absolute;
+  top: 750px;
+  margin: 20px 30px 0 30px;
+  display: inline-block;
+
+}
+.row-3{
+  position: relative ;
+  left: 800px;
+  position: absolute;
+  top: 750px;
+  margin: 20px 20px 0 30px;
+}
+
+ /*dfaskfhsjk*/
+.row-1 img{
+  float: left;
+  width: 100px;
+  height: 120px;
+  margin: 20px;
+}
+.row-1 p{
+  margin-top: 0;
+  color: hsl(233, 8%, 79%);
+}
+.row-2 img{
+  float: left;
+  width: 100px;
+  height: 120px;
+  margin: 20px;
+}
+.row-2 p{
+  margin-top: 0;
+  height: 3em;
+  color: hsl(233, 8%, 79%);
+}
+.row-3 img{
+  float: left;
+  width: 100px;
+  height: 120px;
+  margin: 20px;
+}
+.row-3 p{
+  margin-top: 15px;
+  color: hsl(233, 8%, 79%);
+}
+.row-1 h2{
+  margin-top: 15px;
+  margin-bottom: 0;
+  font-size: 30px;
+  color: hsl(233, 8%, 79%);
+}
+.row-2 h2{
+  margin-top: 15px;
+  margin-bottom: 0;
+  font-size: 30px;
+  color: hsl(233, 8%, 79%);
+}
+.row-3 h2{
+  margin-top: 15px;
+  margin-bottom: 0;
+  font-size: 30px;
+  color: hsl(233, 8%, 79%);
+}
+.row-1 h3{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.row-2 h3{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 95%;
+  margin-left: 10px;
+}
+.row-3 h3{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
