@@ -34,7 +34,7 @@ nav ul li{
 
 .side{
   position: absolute;
-  right: 28%;
+  right: 18%;
   margin:1.25rem 1.25rem 1.25rem 1.25rem;
   width: 17%;
   background-color: black;
@@ -88,8 +88,8 @@ nav ul li{
 .readpara{
   width:70%;
   position: absolute;
-  right: 7.5rem;  /*135px*/
-  top: 20rem;
+  right: 5.5rem;  /*135px*/
+  top: 24rem;
   display: inline-block;
 
 }
