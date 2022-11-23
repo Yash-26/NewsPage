@@ -28,7 +28,7 @@ nav ul{
 }
 nav ul li{
   display: inline;
-  margin: 0 1.25rem 0 1.25rem;
+  margin: 0 1.25rem 0 0.625rem;
   color: hsl(233, 8%, 79%);
 }
 
