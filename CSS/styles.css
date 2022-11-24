@@ -34,22 +34,14 @@ nav ul li{
 
 .side{
   position: absolute;
-  right: 18%;
+  right: 19%;
   margin:0 1.25rem 1.25rem 1.25rem;
   width: 17%;
   background-color: black;
   padding: 10px;
   display: inline-block;
-  clear: left;
-
-
 }
-.row-1{
-  display: inline-block;
-  width: 22%;
-  text-align: left;
-  margin: auto 1.25rem ;
-}
+
 .image img{
   margin-right: : 10px;
   width: 65%;
