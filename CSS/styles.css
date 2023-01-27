@@ -1,209 +1,211 @@
+@media only screen and (min-width:768px){
 body{
-  margin:3.125rem 12.5rem 3.125rem 12.5rem;
-}
-.topcontainer{
-  justify-content: space-around;
-}
-.head{
-  display: inline-block;
-}
-.head h1{
-  margin: 0;
-}
-.navbar{
-  text-align: right;
-  display: inline-block;
-  position: absolute;
-  right:12.5rem;
-}
-.navbar li:hover{
-  color: blue;
-  cursor: pointer;
-}
-nav{
-  text-align: right;
-}
-nav ul{
-  list-style-type: none;
-}
-nav ul li{
-  display: inline;
-  margin: 0 1.25rem 0 0.625rem;
-  color: hsl(233, 8%, 79%);
-}
+    margin:3.125rem 12.5rem 3.125rem 12.5rem;
+  }
+  .topcontainer{
+    justify-content: space-around;
+  }
+  .head{
+    display: inline-block;
+  }
+  .head h1{
+    margin: 0;
+  }
+  .navbar{
+    text-align: right;
+    display: inline-block;
+    position: absolute;
+    right:12.5rem;
+  }
+  .navbar li:hover{
+    color: blue;
+    cursor: pointer;
+  }
+  nav{
+    text-align: right;
+  }
+  nav ul{
+    list-style-type: none;
+  }
+  nav ul li{
+    display: inline;
+    margin: 0 1.25rem 0 0.625rem;
+    color: hsl(233, 8%, 79%);
+  }
 
-.side{
-  position: absolute;
-  right: 19%;
-  margin:0 1.25rem 1.25rem 1.25rem;
-  width: 17%;
-  background-color: black;
-  padding: 10px;
-  display: inline-block;
-}
+  .side{
+    position: absolute;
+    right: 19%;
+    margin:0 1.25rem 1.25rem 1.25rem;
+    width: 17%;
+    background-color: black;
+    padding: 10px;
+    display: inline-block;
+  }
 
-.image img{
-  margin-right: : 10px;
-  width: 65%;
-  height: 17%;
-}
-.image{
-  margin: 1.25rem 0 0 0 ;
-}
-.middle{
-  padding-right: 30px;
-}
-.side h3{
-  color: hsl(36, 100%, 99%);
+  .image img{
+    margin-right: : 10px;
+    width: 65%;
+    height: 17%;
+  }
+  .image{
+    margin: 1.25rem 0 0 0 ;
+  }
+  .middle{
+    padding-right: 30px;
+  }
+  .side h3{
+    color: hsl(36, 100%, 99%);
 
-}
+  }
 
-.side p{
-  color: hsl(233, 8%, 79%)
-}
-.side h2{
-  color: hsl(35, 77%, 62%);
+  .side p{
+    color: hsl(233, 8%, 79%)
+  }
+  .side h2{
+    color: hsl(35, 77%, 62%);
 
 
-}
-.read{
-  display: block;
-}
-.read h1{
-  float: left;
-  width: 30%;
-  font-weight: bold;
-  font-size: 3.4375rem;
-  margin: 0;
-  clear: right;
-}
-.readpara{
-  width:70%;
-  position: absolute;
-  right: 7rem;  /*135px*/
-  display: inline-block;
+  }
+  .read{
+    display: block;
+  }
+  .read h1{
+    float: left;
+    width: 30%;
+    font-weight: bold;
+    font-size: 3.4375rem;
+    margin: 0;
+    clear: right;
+  }
+  .readpara{
+    width:70%;
+    position: absolute;
+    right: 7rem;  /*135px*/
+    display: inline-block;
 
-}
-.readpara p{
-  position: relative;
-  display: inline-block;
-  left: 15.5rem;
-  text-align: left;
-  width: 30%;
-  font-size: 100%;
-  margin: 20px 10px 20px 10px;
-  text-align: left;
-  color: hsl(233, 8%, 79%);
-}
-button{
-  position: relative;
-  left: 220px;
-  width: 15%;
-  font-size: 100%;
-  font-family: monospace;
-  background-color: hsl(5, 85%, 63%);
-  color: white;
-  border: none;
-  display: block;
-  border-radius: 30px;
-}
-button:hover{
-  color: black;
-  cursor: pointer;
-}
+  }
+  .readpara p{
+    position: relative;
+    display: inline-block;
+    left: 15.5rem;
+    text-align: left;
+    width: 30%;
+    font-size: 100%;
+    margin: 20px 10px 20px 10px;
+    text-align: left;
+    color: hsl(233, 8%, 79%);
+  }
+  button{
+    position: relative;
+    left: 220px;
+    width: 15%;
+    font-size: 100%;
+    font-family: monospace;
+    background-color: hsl(5, 85%, 63%);
+    color: white;
+    border: none;
+    display: block;
+    border-radius: 30px;
+  }
+  button:hover{
+    color: black;
+    cursor: pointer;
+  }
 
-.content{
-  display: block;
-}
+  .content{
+    display: block;
+  }
 
-.row-1{
-  position: relative ;
-  left: 170px;
-  position: absolute;
-  top: 600px;
-  margin: 20px;
-}
-.row-2{
-  position: relative ;
-  left: 510px;
-  position: absolute;
-  top: 600px;
-  margin: 20px 30px 0 30px;
-  display: inline-block;
+  .row-1{
+    position: relative ;
+    left: 170px;
+    position: absolute;
+    top: 600px;
+    margin: 20px;
+  }
+  .row-2{
+    position: relative ;
+    left: 510px;
+    position: absolute;
+    top: 600px;
+    margin: 20px 30px 0 30px;
+    display: inline-block;
 
-}
-.row-3{
-  position: relative ;
-  left: 800px;
-  position: absolute;
-  top: 600px;
-  margin: 20px 20px 0 30px;
-}
+  }
+  .row-3{
+    position: relative ;
+    left: 800px;
+    position: absolute;
+    top: 600px;
+    margin: 20px 20px 0 30px;
+  }
 
- /*dfaskfhsjk*/
-.row-1 img{
-  float: left;
-  width: 100px;
-  height: 120px;
-  margin: 20px;
-}
-.row-1 p{
-  margin-top: 0;
-  color: hsl(233, 8%, 79%);
-}
-.row-2 img{
-  float: left;
-  width: 100px;
-  height: 120px;
-  margin: 20px;
-}
-.row-2 p{
-  margin-top: 0;
-  height: 3em;
-  color: hsl(233, 8%, 79%);
-}
-.row-3 img{
-  float: left;
-  width: 100px;
-  height: 120px;
-  margin: 20px;
-}
-.row-3 p{
-  margin-top: 15px;
-  color: hsl(233, 8%, 79%);
-}
-.row-1 h2{
-  margin-top: 15px;
-  margin-bottom: 0;
-  font-size: 30px;
-  color: hsl(233, 8%, 79%);
-}
-.row-2 h2{
-  margin-top: 15px;
-  margin-bottom: 0;
-  font-size: 30px;
-  color: hsl(233, 8%, 79%);
-}
-.row-3 h2{
-  margin-top: 15px;
-  margin-bottom: 0;
-  font-size: 30px;
-  color: hsl(233, 8%, 79%);
-}
-.row-1 h3{
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-.row-2 h3{
-  margin-top: 20px;
-  margin-bottom: 10px;
-  font-size: 95%;
-  margin-left: 10px;
-}
-.row-3 h3{
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-h3{
-  cursor: pointer;
+   /*dfaskfhsjk*/
+  .row-1 img{
+    float: left;
+    width: 100px;
+    height: 120px;
+    margin: 20px;
+  }
+  .row-1 p{
+    margin-top: 0;
+    color: hsl(233, 8%, 79%);
+  }
+  .row-2 img{
+    float: left;
+    width: 100px;
+    height: 120px;
+    margin: 20px;
+  }
+  .row-2 p{
+    margin-top: 0;
+    height: 3em;
+    color: hsl(233, 8%, 79%);
+  }
+  .row-3 img{
+    float: left;
+    width: 100px;
+    height: 120px;
+    margin: 20px;
+  }
+  .row-3 p{
+    margin-top: 15px;
+    color: hsl(233, 8%, 79%);
+  }
+  .row-1 h2{
+    margin-top: 15px;
+    margin-bottom: 0;
+    font-size: 30px;
+    color: hsl(233, 8%, 79%);
+  }
+  .row-2 h2{
+    margin-top: 15px;
+    margin-bottom: 0;
+    font-size: 30px;
+    color: hsl(233, 8%, 79%);
+  }
+  .row-3 h2{
+    margin-top: 15px;
+    margin-bottom: 0;
+    font-size: 30px;
+    color: hsl(233, 8%, 79%);
+  }
+  .row-1 h3{
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .row-2 h3{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 95%;
+    margin-left: 10px;
+  }
+  .row-3 h3{
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  h3{
+    cursor: pointer;
+  }
 }
